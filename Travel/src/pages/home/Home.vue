@@ -1,12 +1,16 @@
 <template>
-<div>
-   hello world
-</div>
+  <div>
+    <home-hearder></home-hearder>
+  </div>
 </template>
 
 <script>
-export default {
-        name:'Home'
-    }
-</script>
+import HomeHearder from './components/Header'
 
+export default {
+  name: 'Home',
+  components: {
+    HomeHearder
+  }
+}
+</script>
