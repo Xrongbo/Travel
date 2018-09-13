@@ -37,9 +37,6 @@ export default {
       weekendList: []
     }
   },
-  computed: {
-    ...mapState(['city'])
-  },
   methods: {
     getHomeInfo () {
       axios.get('/api/index.json?city=' + this.city).then(this.getHomeInfoSucc)
@@ -54,6 +51,9 @@ export default {
         this.weekendList = data.weekendList
       }
     }
+  },
+  computed: {
+    ...mapState(['city'])
   },
   mounted () {
     this.city = this.city
