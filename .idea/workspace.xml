@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593c8f5c-f7bc-4068-98ad-2dab47e52e84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,20 +33,20 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="24" />
-          <entry key="json" value="11" />
+          <entry key="js" value="26" />
+          <entry key="json" value="14" />
           <entry key="styl" value="5" />
-          <entry key="vue" value="98" />
+          <entry key="vue" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="24" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="26" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Stylus" value="5" />
-          <entry key="Vue.js" value="98" />
+          <entry key="Vue.js" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -62,7 +61,7 @@
           <entry key="js" value="662" />
           <entry key="json" value="55" />
           <entry key="styl" value="83" />
-          <entry key="vue" value="11070" />
+          <entry key="vue" value="11507" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -72,7 +71,7 @@
           <entry key="JavaScript" value="662" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Stylus" value="83" />
-          <entry key="Vue.js" value="11070" />
+          <entry key="Vue.js" value="11507" />
         </counts>
       </usages-collector>
     </session>
@@ -80,58 +79,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="29" selection-end-column="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Travel/build/webpack.base.conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="-29">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
-                <element signature="e#121#167#0" expanded="true" />
+                <element signature="e#205#251#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1508">
-              <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue">
+        <entry file="file://$PROJECT_DIR$/Travel/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="23" column="115" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="23" selection-end-column="115" />
+            <state relative-caret-position="58">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -170,7 +133,6 @@
         <option value="$PROJECT_DIR$/Travel/src/store/mutations.js" />
         <option value="$PROJECT_DIR$/Travel/src/pages/city/components/List.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/city/components/Search.vue" />
-        <option value="$PROJECT_DIR$/Travel/src/App.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/city/detail/Detail.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/home/components/Header.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/detail/components/banner.vue" />
@@ -181,10 +143,11 @@
         <option value="$PROJECT_DIR$/Travel/src/pages/home/components/Recommend.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/home/Home.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue" />
-        <option value="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" />
         <option value="$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue" />
-        <option value="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" />
         <option value="$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue" />
+        <option value="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" />
+        <option value="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" />
+        <option value="$PROJECT_DIR$/Travel/src/App.vue" />
       </list>
     </option>
   </component>
@@ -202,7 +165,7 @@
       <path value="$PROJECT_DIR$/Travel/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="504" />
     <option name="y" value="352" />
     <option name="width" value="1400" />
@@ -242,21 +205,6 @@
               <item name="Travel" type="462c0819:PsiDirectoryNode" />
               <item name="Travel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Travel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Travel" type="462c0819:PsiDirectoryNode" />
-              <item name="Travel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="gallary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Travel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Travel" type="462c0819:PsiDirectoryNode" />
-              <item name="Travel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -275,6 +223,26 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="detail" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="Travel" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,6 +263,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Travel\Travel\static\mock" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Travel\Travel\src\pages" />
     </key>
@@ -326,17 +297,18 @@
       <workItem from="1536661827897" duration="31156000" />
       <workItem from="1536820900048" duration="5096000" />
       <workItem from="1536828823547" duration="872000" />
-      <workItem from="1536864677327" duration="11133000" />
+      <workItem from="1536864677327" duration="13280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58680000" />
+    <option name="totallyTimeSpent" value="60827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -348,7 +320,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -419,11 +391,6 @@
         <state relative-caret-position="87">
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Travel/src/pages/city/components/Alphabet.vue">
@@ -516,23 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Travel/src/pages/home/components/Recommend.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -557,17 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue">
+    <entry file="file://$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        <state relative-caret-position="635">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -578,27 +521,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue">
+    <entry file="file://$PROJECT_DIR$/Travel/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="345">
+          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
-            <element signature="e#121#167#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue">
+    <entry file="file://$PROJECT_DIR$/Travel/static/mock/detail.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="29" selection-end-column="110" />
+        <state relative-caret-position="174">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue">
+    <entry file="file://$PROJECT_DIR$/Travel/build/webpack.dev.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="23" column="115" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="23" selection-end-column="115" />
+        <state relative-caret-position="-261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="e#205#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
