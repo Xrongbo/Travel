@@ -56,7 +56,6 @@ export default {
     ...mapState(['city'])
   },
   mounted () {
-    this.city = this.city
     this.getHomeInfo()
   },
   activated () {

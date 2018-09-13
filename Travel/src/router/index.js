@@ -20,4 +20,5 @@ export default new Router({
     name: 'Detail',
     component: Detail
   }]
+
 })

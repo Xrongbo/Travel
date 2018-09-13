@@ -33,8 +33,8 @@ export default {
       }
     }
   },
-  methods:{
-    handleGallaryClick(){
+  methods: {
+    handleGallaryClick () {
       this.$emit('close')
     }
   }
