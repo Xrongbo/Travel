@@ -1,7 +1,17 @@
 <template>
   <ul class="list">
-    <li class="item" v-for="item of letters" :key="item"  @click="handleLetterClick" @touchstart="handleTouchStart" @touchmove="handleTouchMove" @touchend="handleTouchEnd" :ref="item">{{item}}</li>
-
+    <li
+      class="item"
+      v-for="item of letters"
+      :key="item"
+      :ref="item"
+      @touchstart.prevent="handleTouchStart"
+      @touchmove="handleTouchMove"
+      @touchend="handleTouchEnd"
+      @click="handleLetterClick"
+    >
+      {{item}}
+    </li>
   </ul>
 </template>
 
@@ -59,18 +69,18 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-  @import "~styles/varibles.styl"
+  @import '~styles/varibles.styl'
   .list
-    display flex
-    flex-direction column
-    justify-content center
-    position absolute
-    top 1.58rem
-    right 0
-    bottom 0
-    width .4rem
+    display: flex
+    flex-direction: column
+    justify-content: center
+    position: absolute
+    top: 1.58rem
+    right: 0
+    bottom: 0
+    width: .4rem
     .item
-      line-height .4rem
-      text-align center
-      color $bgColor
+      line-height: .4rem
+      text-align: center
+      color: $bgColor
 </style>
