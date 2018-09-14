@@ -3,40 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b377af5d-38e5-4e17-9ff7-ea644816a0e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/iconfont/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/mixins.styl" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/mixins.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/assets/styles/varibles.styl" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/assets/styles/varibles.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/common/fade/FadeAnimation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/common/fade/FadeAnimation.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/common/gallary/Gallary.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/city/City.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/city/City.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/city/components/Alphabet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/city/components/Alphabet.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/city/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/city/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/city/components/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/city/components/List.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/city/components/Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/city/components/Search.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/Detail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/Banner.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/detail/components/List.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/components/Icons.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/components/Icons.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/components/Recommend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/components/Recommend.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/components/Swiper.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/components/Swiper.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/pages/home/components/Weekend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/pages/home/components/Weekend.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/store/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/store/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/src/store/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/src/store/state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travel/static/mock/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/static/mock/index.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,10 +17,11 @@
     <session id="-406566115">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -93,6 +60,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Administrator\Desktop\Travel\Travel\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -120,11 +90,13 @@
       <updated>1536887432601</updated>
       <workItem from="1536887435500" duration="93000" />
       <workItem from="1536887595143" duration="50000" />
+      <workItem from="1536887717689" duration="177000" />
+      <workItem from="1536888056077" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143000" />
+    <option name="totallyTimeSpent" value="383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
